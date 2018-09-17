@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Projects
-permalink: /projects/
+title: terrasys.info
+permalink: /terrasys.info/
 ---
 
 ### [Project 1](https://github.com/tux4kids/tuxmania) 
