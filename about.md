@@ -15,7 +15,7 @@ soil erosion modelling and monitoring -- multi-spectral remote sensing -- digita
 * **2000** -- Diploma for Physical Geography -- University of Halle-Wittenberg, Department of Geography, Germany
 
 ## Experience
-* since 2017 -- Senior Research Scientist -- Julius Kühn Institute, Federal Research Centre for Cultivated Plants -- Project [EMRA](Extreme Weather Monitoring and Risk Assessment)
+* since 2017 -- Senior Research Scientist -- Julius Kühn Institute, Federal Research Centre for Cultivated Plants -- Project [http://emra.julius-kuehn.de]Extreme Weather Monitoring and Risk Assessment
 
 Founder, ABC Organisation
 
