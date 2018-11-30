@@ -12,7 +12,7 @@ soil erosion modelling and monitoring -- multi-spectral remote sensing -- digita
 
 ## Education
 * 2008 | PhD -- University of Tübingen, Department of Physical Geography, Germany
-* 1993-2000 | Diploma for Physical Geography -- University of Halle-Wittenberg, Department of Geography, Germany
+* 2000 | Diploma for Physical Geography -- University of Halle-Wittenberg, Department of Geography, Germany
 
 ## Experience
 * since 2017 -- Senior Research Scientist -- Julius Kühn-Institute, Federal Research Centre for Cultivated Plants -- Project (Extreme Weather Monitoring and Risk Assessment)
