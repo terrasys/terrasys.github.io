@@ -12,10 +12,7 @@ published: true
 [SOIL-DE](https://flf.julius-kuehn.de/soil-de.html) / [BIKASA](https://paradigmaps.geo.uni-halle.de/bikasa/)
 
 ## Publikationen
-
-
-
-
+[ResearchGate](https://www.researchgate.net/profile/Markus_Moeller) / [ORCID](https://orcid.org/0000-0002-1918-7747) / [ResearcherID](http://www.researcherid.com/rid/M-2429-2014)
 
 ## Kontakt
 [markus.moeller@terrasys.info](mailto:markus.moeller@terrasys.info)
