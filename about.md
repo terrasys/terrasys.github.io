@@ -4,7 +4,7 @@ title: Über mich
 permalink: /about/
 published: true
 ---
-"terrasys" bietet Leistungen auf dem Gebiet der maßstabsspezifischen Geodatenintegration und -bereitstellung 
+[terrasys](http://terrasys.github.io) bietet Leistungen auf dem Gebiet der maßstabsspezifischen Geodatenintegration und -bereitstellung 
 
 ## Themen
 Bodenerosionsmodellierung und -monitoring --  Reliefanalyse -- Multi-spektrale  Fernerkundung -- Digitale Bodenprognose -- Phänologische Modellierung -- Modellparametrisierung -- Projektmanagement
@@ -15,12 +15,21 @@ Bodenerosionsmodellierung und -monitoring --  Reliefanalyse -- Multi-spektrale  
 * **GIS** - `QGIS` / `SAGA-GIS` /  
 * **Wisseenschaftliches Layout** - `Latex` / `overleaf`
 
+## Erfahrung
+#### Universitärer Projekte
+[EMRA](https://emra.julius-kuehn.de) / [ProBoSA](http://www.probosa.de) / [PhenoS](http://paradigmaps.geo.uni-halle.de/phenos) /  [DynaC](http://paradigmaps.geo.uni-halle.de/dynac) / [DeCover2](http://www.decover.info)
+
+
+
+
+
+
+
 ## Ausbildung
-* **2008** -- PhD -- University of Tübingen, Department of Physical Geography, Germany
+* **2008** -- Promotion -- University of Tübingen, Department of Physical Geography, Germany
 * **2000** -- Diploma for Physical Geography -- University of Halle-Wittenberg, Department of Geography, Germany
 
-## Erfahrung
-* **since 2017** -- Wissenschaftlicher Mitarbeiter -- Julius Kühn Institute, Federal Research Centre for Cultivated Plants -- Project [http://emra.julius-kuehn.de]Extreme Weather Monitoring and Risk Assessment
+
 
 ## Founder, ABC Organisation
     
