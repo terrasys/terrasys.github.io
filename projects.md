@@ -11,5 +11,11 @@ published: true
 ## Selbstständige Projekte
 [SOIL-DE](https://flf.julius-kuehn.de/soil-de.html) / [BIKASA](https://paradigmaps.geo.uni-halle.de/bikasa/)
 
+## Publikationen
+
+
+
+
+
 ## Kontakt
 [markus.moeller@terrasys.info](mailto:markus.moeller@terrasys.info)
