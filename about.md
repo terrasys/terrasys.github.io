@@ -9,7 +9,7 @@ Maßstabsspezifischen Geodatenintegration und -analyse / Bodenerosionsmodellieru
 
 ## Methoden
 * **Programmierung** R / JavaScript
-* **Maschinelles Lernen** Random Forest / Support Vector Maschines / Deep Learning / ...
+* **Maschinelles Lernen** Random Forest / Support Vector Maschines / Deep Learning
 * **GIS** QGIS / SAGA-GIS
 * **Wissenschaftliches Layout** LaTeX / overleaf / PSTricks / TikZ
 
