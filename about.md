@@ -12,8 +12,8 @@ Bodenerosionsmodellierung und -monitoring --  Reliefanalyse -- Multi-spektrale  
 ## Methoden
 * **Programmierung** - `R` / `JavaScript`
 * **Maschinelles Lernen** - `Random Forest` / `Support Vector Maschines` / `...`
-* **GIS** - `QGIS` / `SAGA-GIS` /  
-* **Wisseenschaftliches Layout** - `Latex` / `overleaf`
+* **GIS** - `QGIS` / `SAGA-GIS`  
+* **Wissenschaftliches Layout** - `Latex` / `overleaf`
 
 ## Erfahrung
 * **Universitärer Projekte** [EMRA](https://emra.julius-kuehn.de) / [ProBoSA](http://www.probosa.de) / [PhenoS](http://paradigmaps.geo.uni-halle.de/phenos) /  [DynaC](http://paradigmaps.geo.uni-halle.de/dynac) / [DeCover2](http://www.decover.info)
