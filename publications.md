@@ -4,7 +4,7 @@ title: Publications
 permalink: /publications/
 ---
 
-### [Jorunals](https://github.com/tux4kids/tuxmania) 
+### [Journals](https://github.com/tux4kids/tuxmania) 
 Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.
 
 ***
