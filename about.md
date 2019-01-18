@@ -17,7 +17,7 @@ Bodenerosionsmodellierung und -monitoring --  Reliefanalyse -- Multi-spektrale  
 
 ## Qualifikation
 * **2008** Promotion / Eberhard-Karls-Universität Tübingen, Physische Geographie / [Ableitung von thematischen Grundlagendaten für Landschaftsanalysen](https://publikationen.uni-tuebingen.de/xmlui/handle/10900/49200)
-* **2000** -- Diplom-Geograph -- Martin-Luther-Universität Halle-Wittenberg, Institut für Geographie 
+* **2000** Diplom-Geograph -- Martin-Luther-Universität Halle-Wittenberg, Institut für Geographie 
 [Anwendung von Methoden der Satellitenbildauswertung und digitalen Reliefanalyse für die bodenkundliche Kartierung am Beispiel des Raumes Könnern für den Zielmaßstab 1:50\,000](https://dl.dropboxusercontent.com/u/108263707/_articles/Moeller2001pfg.pdf)
 
 ## Contact me
