@@ -16,43 +16,13 @@ Bodenerosionsmodellierung und -monitoring --  Reliefanalyse -- Multi-spektrale  
 * **Wisseenschaftliches Layout** - `Latex` / `overleaf`
 
 ## Erfahrung
-#### Universitärer Projekte
-[EMRA](https://emra.julius-kuehn.de) / [ProBoSA](http://www.probosa.de) / [PhenoS](http://paradigmaps.geo.uni-halle.de/phenos) /  [DynaC](http://paradigmaps.geo.uni-halle.de/dynac) / [DeCover2](http://www.decover.info)
+* **Universitärer Projekte** [EMRA](https://emra.julius-kuehn.de) / [ProBoSA](http://www.probosa.de) / [PhenoS](http://paradigmaps.geo.uni-halle.de/phenos) /  [DynaC](http://paradigmaps.geo.uni-halle.de/dynac) / [DeCover2](http://www.decover.info)
+* **Selbstständige Projekte** SOIL-DE
 
-## Erfahrung
-#### Selbstständige Projekte
-
-
-
-
-## Ausbildung
-* **2008** -- Promotion -- University of Tübingen, Department of Physical Geography, Germany
-* **2000** -- Diploma for Physical Geography -- University of Halle-Wittenberg, Department of Geography, Germany
-
-
-
-## Founder, ABC Organisation
-    
-    
-## Achievements
-
-
-* [**This is my first achievement**](#) 
-   
-   Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.
-
-***
-
-* [**This is my second achievement**](#) 
-
-    Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.
-
-***
-
-* [**This is my third achievement**](#) 
-
-   Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula
-
+## Qualifikation
+* **2008** Promotion / Eberhard-Karls-Universität Tübingen, Physische Geographie / [Ableitung von thematischen Grundlagendaten für Landschaftsanalysen](https://publikationen.uni-tuebingen.de/xmlui/handle/10900/49200)
+* **2000** -- Diplom-Geograph -- Martin-Luther-Universität Halle-Wittenberg, Institut für Geographie 
+[Anwendung von Methoden der Satellitenbildauswertung und digitalen Reliefanalyse für die bodenkundliche Kartierung am Beispiel des Raumes Könnern für den Zielmaßstab 1:50\,000](https://dl.dropboxusercontent.com/u/108263707/_articles/Moeller2001pfg.pdf)
 
 ## Contact me
 
