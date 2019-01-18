@@ -1,15 +1,10 @@
 ---
 layout: page
-title: Publications
-permalink: /publications/
+title: Referenzen
+permalink: /Referenzen/
 ---
 
-### [Journals](https://github.com/tux4kids/tuxmania) 
-Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.
-
-***
-
-### [Jorunals](https://github.com/tux4kids/tuxmania) 
+### [Project 1](https://github.com/tux4kids/tuxmania) 
 Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.
 
 ***
@@ -34,4 +29,4 @@ Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulu
 
 ## Contact me
 
-[agarwal.akshay.akshay8@gmail.com](mailto:agarwal.akshay.akshay8@gmail.com)
+[markus.moeller@terrasys.info](mailto:markus.moeller@terrasys.info)
