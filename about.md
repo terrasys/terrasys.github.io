@@ -1,32 +1,28 @@
 ---
 layout: page
-title: About
+title: Über mich
 permalink: /about/
+published: true
 ---
+"terrasys" bietet Leistungen auf dem Gebiet der maßstabsspezifischen Geodatenintegration und -bereitstellung 
 
-I am a geographer and concern myself with the scale-specific availability of thematic geodata and reference units within existing functional hierarchies on the one side and policy requirements on the other side. The topic refers to semantic, temporal and geometric resolutions as well as data accuracy. The main objective of my work is the development of algorithms and conceptual processing chains for data integration and disaggregation. Thus, spatio-temporal and semantic gaps of functional hierarchies can be filled as well as extended and qualified by accuracy metrics. The approach is realized by spatial statistical analysis techniques and applied on digital continuous geodata like remote sensing imagery or digital elevation models.
+## Themen
+Bodenerosionsmodellierung und -monitoring --  Reliefanalyse -- Multi-spektrale  Fernerkundung -- Digitale Bodenprognose -- Phänologische Modellierung -- Modellparametrisierung -- Projektmanagement
 
+## Methoden
+* **Programmierung** - `R` / `JavaScript`
+* **Maschinelles Lernen** - `Random Forest` / `Support Vector Maschines` / `...`
+* **GIS** - `QGIS` / `SAGA-GIS` /  
+* **Wisseenschaftliches Layout** - `Latex` / `overleaf`
 
-## Topics
-soil erosion modelling and monitoring -- multi-spectral remote sensing -- digital soil mapping -- terrain analysis -- phenological modelling -- scale-specific geodata integration -- project management and acquisition
-
-## Education
+## Ausbildung
 * **2008** -- PhD -- University of Tübingen, Department of Physical Geography, Germany
 * **2000** -- Diploma for Physical Geography -- University of Halle-Wittenberg, Department of Geography, Germany
 
-## Experience
-* since 2017 -- Senior Research Scientist -- Julius Kühn Institute, Federal Research Centre for Cultivated Plants -- Project [http://emra.julius-kuehn.de]Extreme Weather Monitoring and Risk Assessment
+## Erfahrung
+* **since 2017** -- Wissenschaftlicher Mitarbeiter -- Julius Kühn Institute, Federal Research Centre for Cultivated Plants -- Project [http://emra.julius-kuehn.de]Extreme Weather Monitoring and Risk Assessment
 
-Founder, ABC Organisation
-
-## Skills
-
-* **Skill 1** - `Skill` / `Skill` / `Skill` / `Skill`
-* **Skill 2** - `Skill` / `Skill` / `Skill` / `Skill` / `Skill` / `Skill` / `Skill`
-* **Skill 3** - `Skill` / `Skill` / `Skill`
-* **Skill 4** - `Skill` / `Skill` / `Skill` 
-* **Skill 5** - `Skill`
-* **Skill 6** - `Skill` / `Skill` 
+## Founder, ABC Organisation
     
     
 ## Achievements
