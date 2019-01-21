@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Willkommen auf der Internetpräsenu von "terrasys geodatenanalyse"
+title: Willkommen auf der Internetpräsenz von "terrasys geodatenanalyse"
 author: Markus Möller
 ---
 
