@@ -9,12 +9,12 @@ published: true
 Dr. Markus Möller / terrasys geodatenanalyse / Mozartstraße 21 - 06114 Halle (Saale)
 
 ## Kontakt
-* **Telefon** +49 345 1352244
-* **Telefax** +49 32 221957967
-* **E-Mail** [markus.moeller@terrasys.info](mailto:markus.moeller@terrasys.info)
+* Telefon: +49 345 1352244
+* Telefax: +49 32 221957967
+* E-Mail: [markus.moeller@terrasys.info](mailto:markus.moeller@terrasys.info)
 
 ## Umsatzsteuer-ID
-* **Umsatzsteuer-Identifikationsnummer gemäß §27a Umsatzsteuergesetz** DE259270162
+* Umsatzsteuer-Identifikationsnummer gemäß §27a Umsatzsteuergesetz: DE259270162
 
 ## Haftung für Inhalte
 Als Diensteanbieter sind wir gemäß §7 Abs.1 TMG für eigene Inhalte auf diesen Seiten nach den allgemeinen Gesetzen verantwortlich. Nach §§8 bis 10 TMG sind wir als Diensteanbieter jedoch nicht verpflichtet, übermittelte oder gespeicherte fremde Informationen zu überwachen oder nach Umständen zu forschen, die auf eine rechtswidrige Tätigkeit hinweisen.
