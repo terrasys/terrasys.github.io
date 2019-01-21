@@ -5,14 +5,52 @@ permalink: /imprint/
 published: true
 ---
 
-## Universitäre und behördliche Projekte
-[EMRA](https://emra.julius-kuehn.de) / [ProBoSA](http://www.probosa.de) / [PhenoS](http://paradigmaps.geo.uni-halle.de/phenos) /  [DynaC](http://paradigmaps.geo.uni-halle.de/dynac) / [DeCover2](http://www.decover.info)
-
-## Selbstständige Projekte
-[SOIL-DE](https://flf.julius-kuehn.de/soil-de.html) / [BIKASA](https://paradigmaps.geo.uni-halle.de/bikasa/)
-
-## Publikationen
-[ResearchGate](https://www.researchgate.net/profile/Markus_Moeller) / [ORCID](https://orcid.org/0000-0002-1918-7747) / [ResearcherID](http://www.researcherid.com/rid/M-2429-2014) / [XING](https://www.xing.com/profile/Markus_Moeller5/)
+## Angaben gemäß § 5 TMG
+Markus Möller - terrasys geodatenanalyse - Mozartstraße 21 - 06114 Halle (Saale)
 
 ## Kontakt
-[markus.moeller@terrasys.info](mailto:markus.moeller@terrasys.info)
+Telefon: +49 345 1352244
+Telefax: +49 32 221957967
+E-Mail: [markus.moeller@terrasys.info](mailto:markus.moeller@terrasys.info)
+
+## Umsatzsteuer-ID
+Umsatzsteuer-Identifikationsnummer gemäß §27 a Umsatzsteuergesetz:
+DE259270162
+
+Wir sind nicht bereit oder verpflichtet, an Streitbeilegungsverfahren vor einer
+Verbraucherschlichtungsstelle teilzunehmen.
+
+## Haftung für Inhalte
+Als Diensteanbieter sind wir gemäß § 7 Abs.1 TMG für eigene Inhalte auf diesen Seiten nach den
+allgemeinen Gesetzen verantwortlich. Nach §§ 8 bis 10 TMG sind wir als Diensteanbieter jedoch nicht
+verpflichtet, übermittelte oder gespeicherte fremde Informationen zu überwachen oder nach Umständen zu
+forschen, die auf eine rechtswidrige Tätigkeit hinweisen.
+
+Verpflichtungen zur Entfernung oder Sperrung der Nutzung von Informationen nach den allgemeinen
+Gesetzen bleiben hiervon unberührt. Eine diesbezügliche Haftung ist jedoch erst ab dem Zeitpunkt der
+Kenntnis einer konkreten Rechtsverletzung möglich. Bei Bekanntwerden von entsprechenden
+Rechtsverletzungen werden wir diese Inhalte umgehend entfernen.
+
+## Haftung für Links
+Unser Angebot enthält Links zu externen Websites Dritter, auf deren Inhalte wir keinen Einfluss haben.
+Deshalb können wir für diese fremden Inhalte auch keine Gewähr übernehmen. Für die Inhalte der verlinkten Seiten ist stets der jeweilige Anbieter oder Betreiber der Seiten verantwortlich. Die verlinkten Seiten wurden zum Zeitpunkt der Verlinkung auf mögliche Rechtsverstöße überprüft. Rechtswidrige Inhalte waren zum Zeitpunkt der Verlinkung nicht erkennbar.
+
+Eine permanente inhaltliche Kontrolle der verlinkten Seiten ist jedoch ohne konkrete Anhaltspunkte einer
+Rechtsverletzung nicht zumutbar. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Links
+umgehend entfernen.
+
+## Urheberrecht
+Die durch die Seitenbetreiber erstellten Inhalte und Werke auf diesen Seiten unterliegen dem deutschen
+Urheberrecht. Die Vervielfältigung, Bearbeitung, Verbreitung und jede Art der Verwertung außerhalb der
+Grenzen des Urheberrechtes bedürfen der schriftlichen Zustimmung des jeweiligen Autors bzw. Erstellers.
+Downloads und Kopien dieser Seite sind nur für den privaten, nicht kommerziellen Gebrauch gestattet.
+Soweit die Inhalte auf dieser Seite nicht vom Betreiber erstellt wurden, werden die Urheberrechte Dritter
+beachtet. Insbesondere werden Inhalte Dritter als solche gekennzeichnet. Sollten Sie trotzdem auf eine
+Urheberrechtsverletzung aufmerksam werden, bitten wir um einen entsprechenden Hinweis. Bei
+Bekanntwerden von Rechtsverletzungen werden wir derartige Inhalte umgehend entfernen.
+
+### Quelle: 
+[e-recht24.de](e-recht24.de)
+
+
+
