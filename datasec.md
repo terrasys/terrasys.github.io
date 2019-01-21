@@ -7,7 +7,9 @@ published: true
 ## Benennung der verantwortlichen Stelle
 Die verantwortliche Stelle für die Datenverarbeitung auf dieser Website ist:
 
-terrasys geodatenanalyse / Dr. Markus Möller / Mozartstraße 21 - 06114 Halle (Saale)
+* Dr. Markus Möller
+* terrasys geodatenanalyse
+* Mozartstraße 21, 06114 Halle (Saale)
 
 Die verantwortliche Stelle entscheidet allein oder gemeinsam mit anderen über die Zwecke und Mittel der Verarbeitung von personenbezogenen Daten (z.B. Namen, Kontaktdaten o.Ä.).
 
