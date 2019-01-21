@@ -50,4 +50,4 @@ Zur vollständigen Erfüllung der gesetzlichen Datenschutzvorgaben haben wir mit
 Unsere Website verwendet die Funktion “demografische Merkmale” von Google Analytics. Mit ihr lassen sich Berichte erstellen, die Aussagen zu Alter, Geschlecht und Interessen der Seitenbesucher enthalten. Diese Daten stammen aus interessenbezogener Werbung von Google sowie aus Besucherdaten von Drittanbietern. Eine Zuordnung der Daten zu einer bestimmten Person ist nicht möglich. Sie können diese Funktion jederzeit deaktivieren. Dies ist über die Anzeigeneinstellungen in Ihrem Google-Konto möglich oder indem Sie die Erfassung Ihrer Daten durch Google Analytics, wie im Punkt “Widerspruch gegen die Datenerfassung” erläutert, generell untersagen.
 
 ## Quelle 
-Datenschutz-Konfigurator von [mein-datenschutzbeauftragter.de]{mein-datenschutzbeauftragter.de}
+Datenschutz-Konfigurator von [mein-datenschutzbeauftragter.de](https://mein-datenschutzbeauftragter.de)
