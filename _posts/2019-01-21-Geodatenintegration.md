@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Maßstabsspezifische Geodatenintegration und -analyse
+title: Maßstabsspezifische Geodaten
 author: Markus Möller
 ---
 
