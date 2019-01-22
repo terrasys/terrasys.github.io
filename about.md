@@ -5,7 +5,7 @@ permalink: /about/
 published: true
 ---
 ## Leistungen
-Maßstabsspezifischen Geodatenintegration und -analyse / Bodenerosionsmodellierung und -monitoring /  Reliefanalyse / Multi-spektrale  Fernerkundung / Digitale Bodenprognose / Phänologische Modellierung / Modellparametrisierung / Projektmanagement / Satz, Grafik, Redaktion, Literaturverwaltung
+Maßstabsspezifische Geodatenintegration und -analyse / Bodenerosionsmodellierung und -monitoring /  Reliefanalyse / Multi-spektrale  Fernerkundung / Digitale Bodenprognose / Phänologische Modellierung / Modellparametrisierung / Projektmanagement / Satz, Grafik, Redaktion, Literaturverwaltung
 
 ## Methoden
 * **Programmierung** R / JavaScript
