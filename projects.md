@@ -14,6 +14,8 @@ published: true
 ## Publikationen
 [ORCID](https://orcid.org/0000-0002-1918-7747) / [ResearcherID](http://www.researcherid.com/rid/M-2429-2014)
 
+{% images/cvreferences %}
+
 ## Netzwerke
 [ResearchGate](https://www.researchgate.net/profile/Markus_Moeller) / [XING](https://www.xing.com/profile/Markus_Moeller5/)
 
