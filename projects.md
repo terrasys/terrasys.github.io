@@ -12,7 +12,7 @@ published: true
 [SOIL-DE](https://flf.julius-kuehn.de/soil-de.html) / [BIKASA](https://paradigmaps.geo.uni-halle.de/bikasa/)
 
 ## Publikationen
-* Möller, M., L. Lymburner & M. Volk (2007). [The comparison index: A tool for assessing the accuracy of image segmentation](https://github.com/terrasys/terrasys.github.io/blob/master/references/Moeller-etal2007jag.pdf) International Journal of Applied Earth Observation and Geoinformation 9 (3), 311-321.
+* Möller, M., L. Lymburner & M. Volk (2007). [The comparison index: A tool for assessing the accuracy of image segmentation.](https://github.com/terrasys/terrasys.github.io/blob/master/references/Moeller-etal2007jag.pdf) International Journal of Applied Earth Observation and Geoinformation 9 (3), 311-321.
 
 
 ## Netzwerke
