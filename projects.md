@@ -5,11 +5,14 @@ permalink: /projects/
 published: true
 ---
 
+
+## Aktuelle Projekte
+* [SOIL-DE](https://flf.julius-kuehn.de/soil-de.html) 
+* [BIKASA](https://paradigmaps.geo.uni-halle.de/bikasa/)
+
+
 ## Universitäre und behördliche Projekte
 [EMRA](https://emra.julius-kuehn.de) / [ProBoSA](http://www.probosa.de) / [PhenoS](http://paradigmaps.geo.uni-halle.de/phenos) /  [DynaC](http://paradigmaps.geo.uni-halle.de/dynac) / [DeCover2](http://www.decover.info)
-
-## Selbstständige Projekte
-[SOIL-DE](https://flf.julius-kuehn.de/soil-de.html) / [BIKASA](https://paradigmaps.geo.uni-halle.de/bikasa/)
 
 ## Publikationen
 * Gerstmann, H., C. Gläßer, D. Thürkow & M. Möller (2018). [Detection of phenology-defined data dcquisition time frames for crop type mapping.](https://github.com/terrasys/terrasys.github.io/blob/master/references/Gerstmann-etal2018pfg.pdf) PFG - Journal of Photogrammetry, Remote Sensing and Geoinformation Science 86, 15-27.
