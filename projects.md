@@ -7,9 +7,8 @@ published: true
 
 
 ## Aktuelle Projekte
-* [SOIL-DE](https://flf.julius-kuehn.de/soil-de.html) 
-* [BIKASA](https://paradigmaps.geo.uni-halle.de/bikasa/)
-
+* Auftrag im Projektvorhaben [BIKASA](https://paradigmaps.geo.uni-halle.de/bikasa/) (Bildungsmodule zur Klimaanpassung für den Agrarsektor Sachsen-Anhalts) / Mitarbeit in den Teilprojekten "Entwicklung von BIKASA-Online-Lernmodulen" und "Definition von Fallbeispielen und Szenarien" / Auftraggeber: Martin-Luther-Universität Halle-Wittenberg, Fachgebiet Geoökologie und physische Geographie
+* Auftrag im Projektvorhaben [SOIL-DE](https://flf.julius-kuehn.de/soil-de.html) (Entwicklung von Indikatoren zur Bewertung der Ertragsfähigkeit, Nutzungsintensität und Vulnerabilität landwirtschaftlich genutzter Böden in Deutschland) / Bearbeitung des Teilprojektes "Maßstabsspezifische Prognose der Bodenparameter Humusgehalt und Bodenart auf der Basis von punkthaften Informationen der Bodenschätzung und bodenkundlicher Landesaufnahmen, Ableitung der zeitlich dynamischen Bodenbedeckung und Lokalisierung von Flächen hoher aktueller Erosionsgefährdung für ausgewählte Testgebiete" / Auftraggeber: Deutsches Zentrum für Luft- und Raumfahrt e.V. (DLR), Deutsches Fernerkundungsdatenzentrum Landoberfläche
 
 ## Universitäre und behördliche Projekte
 [EMRA](https://emra.julius-kuehn.de) / [ProBoSA](http://www.probosa.de) / [PhenoS](http://paradigmaps.geo.uni-halle.de/phenos) /  [DynaC](http://paradigmaps.geo.uni-halle.de/dynac) / [DeCover2](http://www.decover.info)
