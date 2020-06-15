@@ -14,6 +14,7 @@ published: true
 [EMRA](https://emra.julius-kuehn.de) / [ProBoSA](http://www.probosa.de) / [PhenoS](http://paradigmaps.geo.uni-halle.de/phenos) /  [DynaC](http://paradigmaps.geo.uni-halle.de/dynac) / [DeCover2](http://www.decover.info)
 
 ## Publikationen
+* Möller, M., Boutarfa, L. & Strassemeyer, J. (2020). PhenoWin – A R Shiny application for visualization and extraction of phenological windows in Germany, Computers and Electronics in Agriculture, im Druck
 * Möller, M., J. Doms, H. Gerstmann & T. Feike (2019). [A framework for standardized weather index calculation in Germany.](https://github.com/terrasys/terrasys.github.io/blob/master/references/Moeller-etal2018taac.pdf) Theoretical and Applied Climatology 136, 377–390.
 * Gerstmann, H., C. Gläßer, D. Thürkow & M. Möller (2018). [Detection of phenology-defined data dcquisition time frames for crop type mapping.](https://github.com/terrasys/terrasys.github.io/blob/master/references/Gerstmann-etal2018pfg.pdf) PFG - Journal of Photogrammetry, Remote Sensing and Geoinformation Science 86, 15-27.
 * Möller, M., H. Gerstmann, F. Gao, T. C. Dahms, and M. Förster (2017). [Coupling of phenological information and simulated vegetation index time series: Limitations and potentials for the assessment and monitoring of soil erosion risk.](https://github.com/terrasys/terrasys.github.io/blob/master/references/Moeller-etal2017catena.pdf) CATENA 150, 192-205.
